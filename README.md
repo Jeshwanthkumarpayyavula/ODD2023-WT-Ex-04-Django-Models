@@ -1,6 +1,7 @@
 # Ex-04-Django-Models
 # STUDENT DETAILS :
-Name : A.Hari Veera Prasad
+Name : P.Jeshwanth kumar
+Ref.no : 23002519
 
 Department : AIML
 
@@ -118,6 +119,7 @@ In the admin/ page you can view the models created
 And  in the user_profile template page you can see the profile page of the user.
 
 # OUTPUT : 
-![Screenshot 2023-11-15 141701](https://github.com/Hariveeraprasad-2006/ODD2023-WT-Ex-04-Django-Models/assets/145049988/50326fba-3ec6-4b13-8ffd-56a6646cbcfc)
+![image](https://github.com/Jeshwanthkumarpayyavula/ODD2023-WT-Ex-04-Django-Models/assets/145742402/f76595ea-44d8-4353-bbb7-9424d5c4d361)
+
 # RESULT : 
 User Profile displayed successfully using django framework.
