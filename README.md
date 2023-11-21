@@ -1,11 +1,11 @@
 # Ex-04-Django-Models
 # STUDENT DETAILS :
 Name : P.Jeshwanth kumar
-Ref.no : 23002519
+
 
 Department : AIML
 
-Reference N0 : 23009466
+Reference N0 : 23002519
 # AIM : 
 Display user's details using template-view-model in django framework.
 # STEP 1 :
