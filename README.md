@@ -120,6 +120,8 @@ And  in the user_profile template page you can see the profile page of the user.
 
 # OUTPUT : 
 ![image](https://github.com/Jeshwanthkumarpayyavula/ODD2023-WT-Ex-04-Django-Models/assets/145742402/ddb85349-d92b-4034-b757-170f22fbf314)
+![image](https://github.com/Jeshwanthkumarpayyavula/ODD2023-WT-Ex-04-Django-Models/assets/145742402/f8cbebed-231a-4302-ad43-a8501aa62146)
+
 
 
 # RESULT : 
